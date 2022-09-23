@@ -1,0 +1,9 @@
+[09-Jul-2019 09:36:16 Europe/Rome] PHP Fatal error:  Call to undefined function mime_content_type() in /home/mobileap/public_html/mobile_dev/assets/filemanager/filemanager/include/php_image_magician.php on line 2723
+[09-Jul-2019 09:50:29 Europe/Rome] PHP Parse error:  syntax error, unexpected ';' in /home/mobileap/public_html/mobile_dev/assets/filemanager/filemanager/include/php_image_magician.php on line 2723
+[09-Jul-2019 10:03:07 Europe/Rome] PHP Warning:  include(../../index.php): failed to open stream: No such file or directory in /home/mobileap/public_html/mobile_dev/assets/filemanager/filemanager/config/config.php on line 59
+[09-Jul-2019 10:03:07 Europe/Rome] PHP Warning:  include(): Failed opening '../../index.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mobileap/public_html/mobile_dev/assets/filemanager/filemanager/config/config.php on line 59
+[09-Jul-2019 10:03:07 Europe/Rome] PHP Fatal error:  Call to undefined function base_url() in /home/mobileap/public_html/mobile_dev/assets/filemanager/filemanager/config/config.php on line 60
+[09-Jul-2019 11:28:44 Europe/Rome] PHP Warning:  scandir(source/): failed to open dir: No such file or directory in /home/mobileap/public_html/mobile_dev/assets/filemanager/dialog.php on line 610
+[09-Jul-2019 11:28:44 Europe/Rome] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/mobileap/public_html/mobile_dev/assets/filemanager/dialog.php on line 610
+[09-Jul-2019 11:28:44 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/mobileap/public_html/mobile_dev/assets/filemanager/dialog.php on line 622
+[09-Jul-2019 11:28:44 Europe/Rome] PHP Warning:  Invalid argument supplied for foreach() in /home/mobileap/public_html/mobile_dev/assets/filemanager/dialog.php on line 1232

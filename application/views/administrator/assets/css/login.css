@@ -1,0 +1,54 @@
+ body {
+        padding-top: 100px;
+        padding-bottom: 40px;
+
+
+      }
+
+      .form-signin {
+        max-width: 300px;
+        padding: 19px 29px 29px;
+        margin: 0 auto 20px;
+        background-color: rgba(0,0,0,0.5);
+        border: 1px solid #e5e5e5;
+        -webkit-border-radius: 5px;
+           -moz-border-radius: 5px;
+                border-radius: 5px;
+        -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+           -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+                box-shadow: 0 1px 2px rgba(0,0,0,.05);
+		color:#fff;
+		display:none;
+      }
+      .form-signin .form-signin-heading,
+      .form-signin .checkbox {
+        margin-bottom: 10px;
+      }
+      .form-signin input[type="text"],
+      .form-signin input[type="password"] {
+        font-size: 16px;
+        height: auto;
+        margin-bottom: 15px;
+        padding: 7px 9px;
+      }
+	  
+	  .bottom-navbar{
+			height:30px;
+			padding-top:15px;
+			padding-bottom:10px;
+			position:fixed;
+			top:0px;
+			left:0px;
+			right:0px;
+			width:100%;
+			background:#0000c1;
+			z-index:100;
+			color:#fff;
+			text-align:center;
+			font-size:20px;
+			border-bottom:#fff solid 1px;
+	  }
+	  
+	  .powered{
+		display:none;
+		}
